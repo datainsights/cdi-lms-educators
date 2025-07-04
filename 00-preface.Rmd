@@ -45,6 +45,10 @@ Each chapter is organized as a series of **practical Q&A entries**, grouped by t
 
 All Q&As are written with step-by-step walkthroughs, screenshots (where relevant), and actionable tips.
 
+> 📎 **Note for Educators**: CDI guides are best delivered as **live web resources** (via GitHub Pages).  
+> We recommend embedding links inside your LMS — this ensures students always access the most updated version.  
+> Learners can still “Print to PDF” from their browser for offline reading if needed.
+
 ---
 
 ## 🔗 About Complex Data Insights (CDI) {-}

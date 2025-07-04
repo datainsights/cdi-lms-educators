@@ -10,20 +10,20 @@ This section focuses on how educational institutions, NGOs, or training teams ca
 
 ## Explanation
 
-Each CDI guide is already structured as a **modular Q&A series** with real-world scope. To turn a guide into a formal course:
+Each CDI guide is already structured as a **modular Q&A series** grounded in real-world skills. To turn a guide into a formal course:
 
-1. Choose a domain (e.g., General Data Science, Microbiome, Career Skills)
-2. Use the four core CDI layers:  
-   - **EDA → VIZ → STATS → ML**
-3. Assign each Q&A as:
-   - Reading content  
-   - Lab exercise  
-   - Homework or discussion  
-4. Combine with institution-specific lectures or videos
+1. Choose a domain (e.g., General Data Science, Microbiome, Career Skills)  
+2. Use the four core CDI learning layers:  
+   - **EDA → VIZ → STATS → ML**  
+3. Assign each Q&A as:  
+   - Reading content (via GitHub Pages link)  
+   - Coding lab or problem-solving session  
+   - Homework or guided discussion  
+4. Supplement with institution-specific lectures, videos, or grading systems
 
-CDI modules can serve as core content or supplementary labs.
+CDI modules can serve as core teaching content or as enrichment for existing syllabi.
 
-> ✅ **Takeaway**: CDI guides can form the backbone of practical courses or blended learning pathways.
+> ✅ **Takeaway**: CDI guides can serve as a foundation for hands-on data courses or flexible blended-learning models.
 
 ---
 
@@ -31,17 +31,15 @@ CDI modules can serve as core content or supplementary labs.
 
 ## Explanation
 
-To manage multi-instructor delivery:
+Multi-instructor programs benefit from shared resources and planning. You can:
 
-- Create a **shared LMS course shell** or **Google Drive folder**  
-- Assign Q&A batches to instructors for review or adaptation  
-- Use a common naming system (e.g., `Q1.3 – Boxplots`, `Q2.2 – PCA`)  
-- Maintain version control by linking to GitHub source repos  
-- Hold short meetings to align on pace and goals
+- Create a **shared LMS course shell** or **collaborative Drive folder**  
+- Distribute Q&A responsibilities across instructors or TAs  
+- Use a common naming convention (e.g., `Q1.2 – Summary Stats`, `Q2.4 – PCA`)  
+- Link to version-controlled guides via GitHub Pages or source repos  
+- Hold short sync meetings to align scope, pace, and assessments
 
-Shared documentation ensures consistency across classrooms or cohorts.
-
-> ✅ **Takeaway**: A coordinated setup using versioned Q&A entries makes team-teaching smoother and more scalable.
+> ✅ **Takeaway**: Shared, versioned Q&A content supports scalable team teaching with consistency.
 
 ---
 
@@ -49,17 +47,18 @@ Shared documentation ensures consistency across classrooms or cohorts.
 
 ## Explanation
 
-All free CDI content (e.g., public EDA layers) is released under the **MIT License**, allowing free use with attribution.
+All **public EDA layers** from CDI are released under the **MIT License**, which allows free use and adaptation — with proper attribution.
 
-However, the following require a **custom license**:
-- Redistribution of premium content (VIZ, STATS, ML layers)
-- Institution-wide LMS deployments
-- Branded or white-labeled adaptations
+However, a **custom license is required** for:
 
-You can request a tailored license at:  
+- Redistribution of premium content (VIZ, STATS, ML layers)  
+- LMS-wide deployments or site-wide course shells  
+- Branding or adapting CDI content for third-party resale or certification programs  
+
+You can request an institutional or commercial license here:  
 [https://complexdatainsights.com/licenses/licensing.html](https://complexdatainsights.com/licenses/licensing.html)
 
-> ✅ **Takeaway**: Free layers are open; premium use across institutions requires extended licensing.
+> ✅ **Takeaway**: Free layers are open; extended or branded use requires a license.
 
 ---
 
@@ -67,18 +66,20 @@ You can request a tailored license at:
 
 ## Explanation
 
-Since each Q&A is a self-contained learning unit, they can be aligned with:
+Because each Q&A is modular and clearly scoped, it’s easy to map them to:
 
-- **Course-level outcomes** (e.g., “Apply statistical models to biological data”)
-- **Rubrics or Bloom’s taxonomy levels** (e.g., Analyze, Evaluate, Create)
-- **Competency-based modules**
+- **Learning outcomes** (e.g., “Analyze trends using summary statistics”)  
+- **Bloom’s taxonomy** levels (e.g., Apply, Analyze, Evaluate)  
+- **Program competencies or accreditation metrics**
 
-LMS tools can be used to:
-- Measure submission rates
-- Grade with rubrics
-- Assess reflection and improvement over time
+LMS platforms support:
 
-> ✅ **Takeaway**: CDI Q&As support outcome-based education when linked to LMS metrics and rubrics.
+- Rubric-based grading  
+- Assignment completion tracking  
+- Student self-reflection prompts  
+- Code submission analysis
+
+> ✅ **Takeaway**: CDI Q&As are compatible with outcome-based teaching and institutional reporting.
 
 ---
 
@@ -86,14 +87,14 @@ LMS tools can be used to:
 
 ## Explanation
 
-Yes — the Q&A format is perfect for flipped or hybrid teaching:
+Yes — CDI Q&A content is ideal for **flipped** and **hybrid** classrooms:
 
-| In-Class                    | Out-of-Class                     |
-|----------------------------|----------------------------------|
-| Discuss Q&A challenges     | Students study walk-throughs     |
-| Compare peer answers       | Watch instructor videos          |
-| Code reviews or live demos | Submit code from Q&A prompts     |
+| In-Class                    | Out-of-Class                        |
+|:----------------------------|:-------------------------------------|
+| Live coding demos          | Q&A reading + preview               |
+| Peer discussion & feedback | Independent code walkthroughs       |
+| Group problem solving      | Self-paced code replication         |
 
-You can assign reading + code from the guide before class, and use class time for discussion, exploration, or group problem solving.
+Use the online Q&A guides as pre-class study materials. Then focus class time on extension, collaboration, and synthesis.
 
-> ✅ **Takeaway**: CDI’s structure aligns naturally with flipped classroom models that center student engagement.
+> ✅ **Takeaway**: CDI’s format supports active learning, whether in-person, remote, or hybrid.

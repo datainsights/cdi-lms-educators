@@ -12,25 +12,25 @@ This section helps educators design effective student activities from CDI Q&A co
 
 Every Q&A in a CDI guide includes:
 
-- A **real-world question**
-- A **walkthrough explanation**
-- **Python and R code**
+- A **real-world question**  
+- A **walkthrough explanation**  
+- **Python and R code**  
 
 To convert this into an LMS assignment:
 
-1. **Copy the question only** (hide solution)
+1. **Copy the question only** (hide explanation and solution)
 2. Add instructions like:
    - “Answer the question using Python or R”
-   - “Submit a Colab/Jupyter link or upload your notebook”
+   - “Submit a Google Colab link, Jupyter Notebook, or code file”
 3. Optionally include a **starter template** with headers for:
    - Explanation  
    - Code  
    - Output or screenshot  
 
 In Moodle or Canvas:
-- Use “Add Assignment” → paste content → set due date and grading method
+- Use “Add Assignment” → paste question → set due date and grading method
 
-> ✅ **Takeaway**: Strip out the explanation/code from Q&A entries to create authentic student tasks.
+> ✅ **Takeaway**: Strip out the explanation and code from Q&A entries to create authentic student tasks.
 
 ---
 
@@ -38,19 +38,19 @@ In Moodle or Canvas:
 
 ## Explanation
 
-You can accept student responses in various formats depending on the LMS:
+CDI assignments are flexible and platform-agnostic. Students can submit:
 
-| Submission Format | Description                          |
-|-------------------|--------------------------------------|
-| **Notebook (.ipynb)**  | For Colab or Jupyter-based work       |
-| **PDF or Word file**   | For written explanation + code copy  |
-| **Google Doc link**    | Editable online submission           |
-| **Code file (.py / .R)** | If the assignment is script-based    |
-| **Screenshot or output** | For plot-based or visual responses   |
+| Submission Format       | Description                              |
+|:-------------------------|:------------------------------------------|
+| **Notebook (.ipynb)**   | For Colab or Jupyter-based assignments   |
+| **Code file (.py / .R)**| For script-based tasks                   |
+| **Google Doc link**     | For written explanations and embedded code |
+| **Screenshot or output**| For visual results (e.g., plots, summaries) |
+| **PDF or Word file**    | *(Optional)* for full writeups — not required |
 
-Always remind students to test their notebooks before submission.
+Always remind students to test and comment their code before submission.
 
-> ✅ **Takeaway**: Offer flexible formats (notebooks, scripts, PDFs) to match your learners’ comfort level.
+> ✅ **Takeaway**: Offer flexible formats, but emphasize reproducibility and clarity over document style.
 
 ---
 
@@ -58,25 +58,27 @@ Always remind students to test their notebooks before submission.
 
 ## Explanation
 
-Many LMS platforms offer built-in grading workflows:
+Most LMS platforms support built-in grading workflows:
 
-1. Open the submitted file or notebook
+1. Open the student’s submission
 2. Check:
    - **Explanation quality**
-   - **Code correctness and logic**
-   - **Output presence (plots/tables)**
-3. Use **rubrics** if available:
-   - 10 pts: Explanation
-   - 10 pts: Correct code
-   - 10 pts: Output clarity
+   - **Code logic and correctness**
+   - **Output presence and clarity (e.g., tables, plots)**
 
-You can use:
+You can use **rubrics** to ensure fairness and consistency:
 
-- **Inline comments** in LMS (e.g., Canvas SpeedGrader)
-- **Rubric scoring**
-- Or download submissions for batch review
+- 10 pts: Explanation
+- 10 pts: Code implementation
+- 10 pts: Output/visuals
 
-> ✅ **Takeaway**: Use simple rubrics and comment-based feedback to help students learn from each submission.
+Feedback options:
+
+- **Inline comments** (e.g., Moodle Annotate, Canvas SpeedGrader)  
+- **Custom rubric scoring**  
+- **Download and mark externally**, then re-upload scores or annotated files
+
+> ✅ **Takeaway**: Use rubrics and focused comments to create learning moments, not just grades.
 
 ---
 
@@ -84,19 +86,19 @@ You can use:
 
 ## Explanation
 
-Many LMS platforms support forums or discussion boards. To foster peer learning:
+LMS forums are great for reinforcing open-ended problem-solving.
 
-1. Post a Q&A (without answer) as a **discussion prompt**
+You can:
+
+1. Post a Q&A prompt (without solution) as a **discussion topic**
 2. Ask students to:
-   - Propose a solution  
-   - Comment on each other’s code or logic  
-   - Share different ways to solve the same problem  
+   - Share a proposed solution  
+   - Comment constructively on a peer’s response  
+   - Suggest alternate approaches or critique logic
 
-Instructors can summarize or highlight great answers afterward.
+Follow up by summarizing patterns or highlighting standout thinking.
 
-This promotes collaborative thinking and deepens understanding.
-
-> ✅ **Takeaway**: Turn Q&A prompts into class discussions to build critical thinking and code-sharing skills.
+> ✅ **Takeaway**: Peer feedback turns Q&A learning into collaborative exploration.
 
 ---
 
@@ -104,16 +106,15 @@ This promotes collaborative thinking and deepens understanding.
 
 ## Explanation
 
-To support growth, include structured prompts like:
+Beyond grading, help learners **reflect on their process**. Add simple prompts such as:
 
-- “What part of this question was most challenging?”
-- “How would you explain this to a peer?”
-- “Compare your answer to the solution in the guide — what would you change?”
+- “What part of this Q&A was most challenging for you?”
+- “How did you debug your code?”
+- “Compare your submission with the model solution — what’s one thing you learned?”
 
-These can be added:
-- At the end of each assignment
-- In a post-submission form or reflection document
+You can include these as:
+- Short response fields in LMS submissions  
+- End-of-assignment reflection prompts  
+- Follow-up discussion board threads
 
-Reflection encourages metacognition and self-directed learning.
-
-> ✅ **Takeaway**: Use simple follow-up prompts to turn code submission into a reflective learning cycle.
+> ✅ **Takeaway**: Reflection deepens learning and builds self-assessment skills.

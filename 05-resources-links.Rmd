@@ -2,37 +2,40 @@
 
 # Additional Resources & Useful Links {-}
 
-This section gathers helpful tools, references, and links that support LMS integration of CDI Q&A materials. Use these to enhance your teaching setup, troubleshoot, or connect with educator communities.
+This section gathers helpful tools, references, and links that support LMS integration of CDI Q&A materials. Use these to enhance your teaching setup, troubleshoot workflows, or connect with educator communities around open learning.
 
 ---
 
 ## 🌐 LMS Platform Guides {-}
 
-| Platform         | Educator Guide / Docs                                  |
-|------------------|--------------------------------------------------------|
-| **Moodle**       | [https://docs.moodle.org/](https://docs.moodle.org/)  
-| **Canvas**       | [https://community.canvaslms.com/](https://community.canvaslms.com/)  
-| **Google Classroom** | [https://edu.google.com/intl/en/products/classroom/](https://edu.google.com/intl/en/products/classroom/)  
-| **Microsoft Teams for Education** | [https://learn.microsoft.com/en-us/microsoftteams/education](https://learn.microsoft.com/en-us/microsoftteams/education)
+| Platform               | Educator Docs / Support                                  |
+|------------------------|----------------------------------------------------------|
+| **Moodle**             | [https://docs.moodle.org/](https://docs.moodle.org/)  
+| **Canvas**             | [https://community.canvaslms.com/](https://community.canvaslms.com/)  
+| **Google Classroom**   | [https://edu.google.com/products/classroom/](https://edu.google.com/products/classroom/)  
+| **Microsoft Teams EDU**| [https://learn.microsoft.com/en-us/microsoftteams/education](https://learn.microsoft.com/en-us/microsoftteams/education)
 
 ---
 
 ## 📁 Tools for Sharing & Collaboration {-}
 
-- **GitHub Pages Hosting** (for all CDI guides):  
+- **GitHub Pages Hosting (CDI Guides)**  
   [https://complexdatainsights.com/explore-products](https://complexdatainsights.com/explore-products)
 
-- **Google Colab (Python notebooks)**:  
+- **Google Colab (Run Python Notebooks)**  
   [https://colab.research.google.com](https://colab.research.google.com)
 
-- **NBViewer (view GitHub notebooks)**:  
+- **NBViewer (View GitHub-hosted notebooks)**  
   [https://nbviewer.org](https://nbviewer.org)
 
-- **MyBinder (launch notebooks)**:  
+- **MyBinder (Launch `.ipynb` notebooks in browser)**  
   [https://mybinder.org](https://mybinder.org)
 
-- **Markdown to PDF or HTML converters**:  
-  - `pandoc`, `nbconvert`, or R Markdown `rmarkdown::render()`
+- **R Markdown + Pandoc (Convert Markdown to HTML/PDF)**  
+  Tools like `rmarkdown::render()` and `pandoc` can generate web-friendly or printable formats — though CDI encourages online-first delivery.
+
+> 📎 Reminder: CDI guides are best delivered via **live web links**.  
+> If students need a static copy, they can use **Print → Save as PDF** from their browser.
 
 ---
 
@@ -41,11 +44,11 @@ This section gathers helpful tools, references, and links that support LMS integ
 - **Open Education Global**  
   [https://www.oeglobal.org](https://www.oeglobal.org)
 
-- **Data Science Teaching Community (Slack/Discord-based groups)**  
-  - [rstats-tidymodels Slack](https://www.tidymodels.org/community/)
+- **R for Data Science Community (Slack + Forums)**  
+  - [tidymodels.org/community](https://www.tidymodels.org/community/)  
   - [Posit Community](https://community.rstudio.com/)
 
 - **GitHub Education Program**  
   [https://education.github.com](https://education.github.com)
 
-> ✅ **Takeaway**: These resources help you expand, adapt, and deliver your own LMS-powered learning experience using CDI materials.
+> ✅ **Takeaway**: These tools and communities can help you adapt, scale, and support your CDI-powered courses across any LMS.

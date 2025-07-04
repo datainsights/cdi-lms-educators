@@ -14,10 +14,10 @@ A **Learning Management System (LMS)** is a platform that enables instructors to
 
 When teaching **data science** or **bioinformatics**, an LMS helps by:
 
-- Hosting reading material and tutorials (e.g., PDF Q&A guides)
-- Delivering coding assignments and collecting submissions
-- Tracking student progress and feedback
-- Integrating tools like GitHub, Google Colab, or Jupyter
+- Embedding Q&A-based learning guides from GitHub Pages  
+- Delivering coding assignments and collecting submissions  
+- Tracking student progress and feedback  
+- Integrating tools like GitHub, Google Colab, or Jupyter  
 
 An LMS serves as a central hub for your learners to access CDI Q&A content and interact with it in a structured way.
 
@@ -32,7 +32,7 @@ An LMS serves as a central hub for your learners to access CDI Q&A content and i
 The most widely adopted LMS platforms include:
 
 | Platform         | Description                                              | Ideal For                   |
-|------------------|----------------------------------------------------------|-----------------------------|
+|:------------------|:----------------------------------------------------------|:-----------------------------|
 | **Moodle**       | Open-source LMS used by schools and universities         | Customization, offline use |
 | **Google Classroom** | Lightweight platform integrated with Google Workspace | Schools, remote teaching   |
 | **Canvas**       | Modern interface, cloud-hosted, used in higher education | Institutions with budget    |
@@ -50,14 +50,14 @@ Other tools like **Microsoft Teams for Education** and **Schoology** may also su
 
 CDI Q&A guides follow a step-by-step, inquiry-based format. This aligns well with LMS elements like:
 
-- **Modules or Units** → Organize Q&A entries by topic (e.g., EDA, ML, RNA-Seq)
-- **Assignments** → Convert a single Q&A prompt into a coding task or reflection
-- **Quizzes** → Use Q&A concepts to create multiple-choice or short answer assessments
-- **Discussions** → Encourage group feedback or code reviews
+- **Modules or Units** → Organize Q&A entries by topic (e.g., EDA, ML, RNA-Seq)  
+- **Assignments** → Convert a single Q&A prompt into a coding task or reflection  
+- **Quizzes** → Use Q&A concepts to create multiple-choice or short answer assessments  
+- **Discussions** → Encourage group feedback or code reviews  
 
-Q&A content can be copied as-is into LMS text editors or uploaded as documents.
+Educators can either copy content into LMS pages or link directly to the online version of a guide.
 
-> ✅ **Takeaway**: Each CDI Q&A can serve as a self-contained LMS activity or assignment.
+> ✅ **Takeaway**: Each CDI Q&A can serve as a self-contained LMS activity or assignment — ideally linked live.
 
 ---
 
@@ -67,12 +67,12 @@ Q&A content can be copied as-is into LMS text editors or uploaded as documents.
 
 To integrate CDI materials using an LMS, educators should be comfortable with:
 
-- Navigating the LMS dashboard (course setup, editing modules)
-- Uploading files and links (PDFs, GitHub Pages, Colab)
-- Creating assignments and rubrics
-- Reading basic student code or submissions (Python/R)
-- Giving feedback or using auto-grading (optional)
+- Navigating the LMS dashboard (course setup, editing modules)  
+- Adding external links (e.g., GitHub Pages, Colab notebooks)  
+- Creating assignments and rubrics  
+- Reading basic student code or submissions (Python/R)  
+- Providing feedback or using grading features  
 
-No deep programming knowledge is required if students work with prepared notebooks or follow guided walkthroughs.
+No deep programming knowledge is required — especially when students work from well-prepared, guide-based Q&A prompts.
 
-> ✅ **Takeaway**: Basic LMS editing + comfort with code-based learning is enough to get started.
+> ✅ **Takeaway**: Basic LMS editing + comfort with live coding content is enough to get started.
