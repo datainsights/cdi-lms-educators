@@ -13,6 +13,7 @@ This section shows how to bring Complex Data Insights (CDI) content into your LM
 CDI Q&A guides can be downloaded as PDFs or Markdown files and uploaded directly to an LMS.
 
 ### Example (Moodle or Canvas):
+
 1. Go to your **course section or module**
 2. Click **Add File** or **Upload Resource**
 3. Choose the `Q&A_guide.pdf` or other CDI document
@@ -29,3 +30,61 @@ Most LMS platforms allow drag-and-drop uploading or selecting from cloud storage
 ## Explanation
 
 Every CDI guide has a public GitHub Pages site, such as:
+
+https://general-ds.complexdatainsights.com/
+https://microbiome.complexdatainsights.com/
+
+To link it in an LMS:
+
+1. **Copy** the URL from your browser
+2. In your LMS, choose **Add External Link** or **Embed URL**
+3. Add a title like: *"Explore the General DS Q&A Guide Online"*
+4. Paste the link, save, and preview
+
+Some LMS platforms allow the site to be embedded directly via iframe.
+
+> ✅ **Takeaway**: Linking GitHub Pages provides live access to the most updated version of a CDI guide.
+
+---
+
+# How do you embed a Google Colab notebook for student use?
+
+## Explanation
+
+If you’re using Python-based exercises from a CDI guide, you can convert code snippets into a Google Colab notebook and embed the link:
+
+1. Copy or adapt a notebook (e.g., `eda-qna.ipynb`)
+2. Upload it to your Google Drive
+3. Open it in **Google Colab** and click **Share → Anyone with the link**
+4. Copy the Colab link
+5. In your LMS, use **Add Web Link** or **Post Announcement**
+6. Include brief instructions (e.g., "Open in Colab and run cells to complete the Q&A")
+
+Colab provides an easy way for students to code without installing anything.
+
+> ✅ **Takeaway**: Google Colab is a no-setup coding platform ideal for LMS integration with Python Q&A.
+
+---
+
+# How do you embed a Jupyter Notebook (.ipynb) in LMS platforms?
+
+## Explanation
+
+Most LMS platforms don’t support `.ipynb` files directly, but here are workarounds:
+
+| Option              | What to Do                                      |
+|---------------------|-------------------------------------------------|
+| **NBViewer**         | Upload notebook to GitHub → Share with nbviewer.org |
+| **Colab / Binder**   | Use Colab or MyBinder to launch the notebook in-browser |
+| **HTML Export**      | Convert `.ipynb` to HTML → Upload or embed     |
+
+To convert to HTML:
+```bash
+jupyter nbconvert your_notebook.ipynb --to html
+```
+
+# How do you upload assignment templates with placeholders?
+
+## Explanation
+
+Educators can copy a Q&A and turn it into a templated exercise with clear placeholders. For example:
