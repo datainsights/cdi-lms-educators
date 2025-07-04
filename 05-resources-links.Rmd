@@ -1,0 +1,51 @@
+# (PART) RESOURCCES LINKS {-}
+
+# Additional Resources & Useful Links {-}
+
+This section gathers helpful tools, references, and links that support LMS integration of CDI Q&A materials. Use these to enhance your teaching setup, troubleshoot, or connect with educator communities.
+
+---
+
+## 🌐 LMS Platform Guides {-}
+
+| Platform         | Educator Guide / Docs                                  |
+|------------------|--------------------------------------------------------|
+| **Moodle**       | [https://docs.moodle.org/](https://docs.moodle.org/)  
+| **Canvas**       | [https://community.canvaslms.com/](https://community.canvaslms.com/)  
+| **Google Classroom** | [https://edu.google.com/intl/en/products/classroom/](https://edu.google.com/intl/en/products/classroom/)  
+| **Microsoft Teams for Education** | [https://learn.microsoft.com/en-us/microsoftteams/education](https://learn.microsoft.com/en-us/microsoftteams/education)
+
+---
+
+## 📁 Tools for Sharing & Collaboration {-}
+
+- **GitHub Pages Hosting** (for all CDI guides):  
+  [https://complexdatainsights.com/explore-products](https://complexdatainsights.com/explore-products)
+
+- **Google Colab (Python notebooks)**:  
+  [https://colab.research.google.com](https://colab.research.google.com)
+
+- **NBViewer (view GitHub notebooks)**:  
+  [https://nbviewer.org](https://nbviewer.org)
+
+- **MyBinder (launch notebooks)**:  
+  [https://mybinder.org](https://mybinder.org)
+
+- **Markdown to PDF or HTML converters**:  
+  - `pandoc`, `nbconvert`, or R Markdown `rmarkdown::render()`
+
+---
+
+## 📚 Suggested Communities for Educators {-}
+
+- **Open Education Global**  
+  [https://www.oeglobal.org](https://www.oeglobal.org)
+
+- **Data Science Teaching Community (Slack/Discord-based groups)**  
+  - [rstats-tidymodels Slack](https://www.tidymodels.org/community/)
+  - [Posit Community](https://community.rstudio.com/)
+
+- **GitHub Education Program**  
+  [https://education.github.com](https://education.github.com)
+
+> ✅ **Takeaway**: These resources help you expand, adapt, and deliver your own LMS-powered learning experience using CDI materials.
