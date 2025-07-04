@@ -1,0 +1,31 @@
+# (PART) UPLOADING TO LMS {-}
+
+# Uploading and Embedding CDI Materials {-}
+
+This section shows how to bring Complex Data Insights (CDI) content into your LMS — whether as documents, web links, or live notebooks. These techniques help educators deliver Q&A-based resources efficiently to students.
+
+---
+
+# How do you upload a CDI PDF or Q&A document to your LMS?
+
+## Explanation
+
+CDI Q&A guides can be downloaded as PDFs or Markdown files and uploaded directly to an LMS.
+
+### Example (Moodle or Canvas):
+1. Go to your **course section or module**
+2. Click **Add File** or **Upload Resource**
+3. Choose the `Q&A_guide.pdf` or other CDI document
+4. Optionally rename it for clarity (e.g., *Intro to EDA – Python & R*)
+
+Most LMS platforms allow drag-and-drop uploading or selecting from cloud storage (e.g., Google Drive).
+
+> ✅ **Takeaway**: PDF versions of CDI guides are LMS-friendly and easy to add as reading resources.
+
+---
+
+# How do you add a GitHub Pages link to an LMS module?
+
+## Explanation
+
+Every CDI guide has a public GitHub Pages site, such as:
