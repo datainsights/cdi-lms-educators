@@ -1,0 +1,15 @@
+book_filename: "eda"
+before_chapter_script: ["scripts/_setup.R"]
+delete_merged_file: yes
+
+language:
+  ui:
+    chapter_name: "Q&A "
+
+rmd_files:
+  - index.Rmd
+  - 00-preface.Rmd
+  - 01-lms-basics.Rmd
+  - 03-assignments-feedback.Rmd
+  - 04-institutional-guidance.Rmd
+  - 05-resources-links.Rmd
