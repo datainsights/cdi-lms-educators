@@ -1,0 +1,78 @@
+# (PART) LMS BASICS {-}
+
+# Getting Started with LMS Platforms {-}
+
+In this section, we’ll explore foundational questions that help educators understand what an LMS is, how it supports data science learning, and how CDI resources fit into typical teaching platforms like Moodle, Canvas, and Google Classroom.
+
+---
+
+# How do you define an LMS and its role in teaching data science?
+
+## Explanation
+
+A **Learning Management System (LMS)** is a platform that enables instructors to organize, deliver, and track educational content and student engagement. Examples include **Moodle**, **Google Classroom**, **Canvas**, and **Blackboard**.
+
+When teaching **data science** or **bioinformatics**, an LMS helps by:
+
+- Hosting reading material and tutorials (e.g., PDF Q&A guides)
+- Delivering coding assignments and collecting submissions
+- Tracking student progress and feedback
+- Integrating tools like GitHub, Google Colab, or Jupyter
+
+An LMS serves as a central hub for your learners to access CDI Q&A content and interact with it in a structured way.
+
+> ✅ **Takeaway**: LMS platforms help bridge open educational resources like CDI with institutional teaching workflows.
+
+---
+
+# Which LMS platforms are commonly used in education?
+
+## Explanation
+
+The most widely adopted LMS platforms include:
+
+| Platform         | Description                                              | Ideal For                   |
+|------------------|----------------------------------------------------------|-----------------------------|
+| **Moodle**       | Open-source LMS used by schools and universities         | Customization, offline use |
+| **Google Classroom** | Lightweight platform integrated with Google Workspace | Schools, remote teaching   |
+| **Canvas**       | Modern interface, cloud-hosted, used in higher education | Institutions with budget    |
+| **Blackboard**   | Legacy system still used in some institutions            | Traditional universities    |
+
+Other tools like **Microsoft Teams for Education** and **Schoology** may also support external resource integration.
+
+> ✅ **Takeaway**: Moodle, Canvas, and Google Classroom are the best starting points for educators using CDI guides.
+
+---
+
+# How do you align Q&A-style content with LMS workflows?
+
+## Explanation
+
+CDI Q&A guides follow a step-by-step, inquiry-based format. This aligns well with LMS elements like:
+
+- **Modules or Units** → Organize Q&A entries by topic (e.g., EDA, ML, RNA-Seq)
+- **Assignments** → Convert a single Q&A prompt into a coding task or reflection
+- **Quizzes** → Use Q&A concepts to create multiple-choice or short answer assessments
+- **Discussions** → Encourage group feedback or code reviews
+
+Q&A content can be copied as-is into LMS text editors or uploaded as documents.
+
+> ✅ **Takeaway**: Each CDI Q&A can serve as a self-contained LMS activity or assignment.
+
+---
+
+# What skills do educators need to start using an LMS effectively?
+
+## Explanation
+
+To integrate CDI materials using an LMS, educators should be comfortable with:
+
+- Navigating the LMS dashboard (course setup, editing modules)
+- Uploading files and links (PDFs, GitHub Pages, Colab)
+- Creating assignments and rubrics
+- Reading basic student code or submissions (Python/R)
+- Giving feedback or using auto-grading (optional)
+
+No deep programming knowledge is required if students work with prepared notebooks or follow guided walkthroughs.
+
+> ✅ **Takeaway**: Basic LMS editing + comfort with code-based learning is enough to get started.
