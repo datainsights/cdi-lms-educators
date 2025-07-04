@@ -1,0 +1,71 @@
+# (PART) PREFACE {-}
+
+# Welcome to the LMS Integration Q&A Guide {-}
+
+Welcome to the **LMS Integration Q&A Guide**, part of the **Complex Data Insights (CDI)** learning ecosystem.
+
+This guide is designed for **educators, teaching assistants, and instructional designers** who want to bring CDI’s open-source Q&A resources into Learning Management Systems (LMS) such as **Moodle**, **Canvas**, or **Google Classroom**.
+
+---
+
+## 🎯 Purpose of This Guide {-}
+
+CDI Q&A guides are built to help learners grow through **real-world questions and step-by-step solutions** using Python and R. This LMS guide helps you:
+
+- ✅ Adapt Q&A content into your existing teaching workflows  
+- 🧰 Use GitHub-hosted materials inside your LMS  
+- 🧑‍🏫 Design assignments and track student progress  
+- 🔁 Encourage reflection, feedback, and code submissions  
+- 🏫 Scale usage across your institution or team  
+
+---
+
+## 👥 Who Should Use This Guide? {-}
+
+This resource is ideal for:
+
+- **University instructors** seeking hands-on coding resources  
+- **Mentors and bootcamp facilitators** using open materials  
+- **Instructional designers** looking to integrate external tools  
+- **NGO and training programs** building blended or remote models  
+
+Whether you’re teaching data science, bioinformatics, or computational thinking — this guide shows you how to plug CDI Q&A into your learning environment.
+
+---
+
+## 🧭 How the Guide is Organized {-}
+
+Each chapter is organized as a series of **practical Q&A entries**, grouped by theme:
+
+1. **Getting Started with LMS Platforms**  
+2. **Uploading and Embedding Materials**  
+3. **Assignments, Submissions & Feedback**  
+4. **Institutional-Level Integration Tips**  
+5. **Useful Tools & External Resources**
+
+All Q&As are written with step-by-step walkthroughs, screenshots (where relevant), and actionable tips.
+
+---
+
+## 🔗 About Complex Data Insights (CDI) {-}
+
+CDI is an open educational initiative offering question-driven guides across real-world domains like:
+
+- General Data Science  
+- Bioinformatics (e.g., Microbiome, RNA-Seq, GWAS)  
+- Business, Health, Education & more  
+
+To explore all available guides, visit:  
+[https://complexdatainsights.com/explore-products](https://complexdatainsights.com/explore-products)
+
+---
+
+## 🧡 Licensing & Attribution {-}
+
+This guide is released under the **MIT License**, along with most CDI free layers. You are encouraged to use, adapt, and share these materials — with attribution to:
+
+**Complex Data Insights (CDI)**  
+[https://complexdatainsights.com](https://complexdatainsights.com)
+
+Custom licensing is available for institutional use or LMS-wide deployments. Learn more at:  
+[https://complexdatainsights.com/licenses/licensing.html](https://complexdatainsights.com/licenses/licensing.html)
