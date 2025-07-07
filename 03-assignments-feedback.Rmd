@@ -1,11 +1,9 @@
 # (PART) ASSIGNMENTS {-}
 
-```{block type="infoicon", echo=TRUE}
-
 # Assignments, Submissions & Feedback {-}
 
 This section helps educators design learner-centered activities using CDI’s Q&A structure. You’ll learn how to turn real questions into assignments, collect submissions in flexible formats, and give meaningful feedback using your LMS.
-```
+
 
 # How do you convert a CDI Q&A into a student assignment?
 
