@@ -1,0 +1,21 @@
+# (PART) NEXT STEP {-}
+
+# What’s Next for LMS + CDI Integration?
+
+## Explanation
+
+This guide was created to help you confidently bring **Complex Data Insights (CDI)** materials into your preferred LMS — whether you're using Moodle, Canvas, Google Classroom, or another platform.
+
+Now that your course is designed and ready to launch, you may want to explore:
+
+- 📊 **Tracking learner progress and feedback**
+- 🤝 **Using discussion forums for peer support**
+- 📅 **Developing weekly schedules using Q&A entries**
+- 🌍 **Translating or localizing CDI content for your learners**
+- 🔁 **Sharing back your improvements with the CDI community**
+
+Remember — CDI is an open learning ecosystem. Your contributions, translations, and remix ideas are not only welcome — they help others teach better too.
+
+> ✅ **Takeaway**: You’re part of something bigger. Keep improving your course, and don’t hesitate to reach out or give back to this growing open community.
+
+Let’s keep building, together.

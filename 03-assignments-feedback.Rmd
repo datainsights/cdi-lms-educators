@@ -1,36 +1,41 @@
 # (PART) ASSIGNMENTS {-}
 
+```{block type="infoicon", echo=TRUE}
+
 # Assignments, Submissions & Feedback {-}
 
-This section helps educators design effective student activities from CDI Q&A content. You’ll learn how to turn walkthroughs into assignments, accept student submissions, and give feedback using LMS tools.
+This section helps educators design learner-centered activities using CDI’s Q&A structure. You’ll learn how to turn real questions into assignments, collect submissions in flexible formats, and give meaningful feedback using your LMS.
+```
 
----
-
-# How do you turn a Q&A prompt into a student assignment?
+# How do you convert a CDI Q&A into a student assignment?
 
 ## Explanation
 
-Every Q&A in a CDI guide includes:
+Each CDI Q&A includes:
 
-- A **real-world question**  
-- A **walkthrough explanation**  
-- **Python and R code**  
+- ✅ A **real-world question**  
+- 📘 A step-by-step **explanation**  
+- 💻 Sample **Python and R code**
 
-To convert this into an LMS assignment:
+To turn this into an LMS-based assignment:
 
-1. **Copy the question only** (hide explanation and solution)
-2. Add instructions like:
-   - “Answer the question using Python or R”
-   - “Submit a Google Colab link, Jupyter Notebook, or code file”
-3. Optionally include a **starter template** with headers for:
-   - Explanation  
-   - Code  
-   - Output or screenshot  
+1. **Use only the question** — hide the explanation and code walkthrough  
+2. Provide instructions like:  
+   - “Answer this using Python or R”  
+   - “Submit a notebook link, code file, or written explanation”  
+3. (Optional) Add a **starter template** with placeholders for:  
+   - ✍️ Explanation  
+   - 💻 Code  
+   - 📸 Output or screenshot
 
-In Moodle or Canvas:
-- Use “Add Assignment” → paste question → set due date and grading method
+### LMS Setup Tip:
+In most platforms (e.g., Moodle, Canvas, Google Classroom):
+- Use **“Add Assignment”** or equivalent  
+- Paste the question as your prompt  
+- Choose submission types (e.g., file upload, text entry)  
+- Set deadlines and grading criteria
 
-> ✅ **Takeaway**: Strip out the explanation and code from Q&A entries to create authentic student tasks.
+> ✅ **Takeaway**: Focus on the core question, let learners explore, and use LMS tools to structure it as a real task.
 
 ---
 
@@ -38,83 +43,41 @@ In Moodle or Canvas:
 
 ## Explanation
 
-CDI assignments are flexible and platform-agnostic. Students can submit:
+Submission formats should support clarity, reproducibility, and platform flexibility. Common options include:
 
-| Submission Format       | Description                              |
-|:-------------------------|:------------------------------------------|
-| **Notebook (.ipynb)**   | For Colab or Jupyter-based assignments   |
-| **Code file (.py / .R)**| For script-based tasks                   |
-| **Google Doc link**     | For written explanations and embedded code |
-| **Screenshot or output**| For visual results (e.g., plots, summaries) |
-| **PDF or Word file**    | *(Optional)* for full writeups — not required |
+| Format                  | Description                                  |
+|-------------------------|----------------------------------------------|
+| **Notebook (.ipynb)**   | Ideal for Colab or Jupyter work              |
+| **Script (.py / .R)**   | Simple code file for quick review            |
+| **Google Doc or link**  | Useful for mixed code + explanation writeups |
+| **Screenshot or output**| For showing final result or plot             |
+| **PDF/Word file**       | *(Optional)* for full reports                |
 
-Always remind students to test and comment their code before submission.
+Encourage students to:
+- Add comments and brief notes  
+- Use consistent naming and formatting  
+- Make sure code runs before submission
 
-> ✅ **Takeaway**: Offer flexible formats, but emphasize reproducibility and clarity over document style.
-
----
-
-# How do you review and grade coding assignments in LMS?
-
-## Explanation
-
-Most LMS platforms support built-in grading workflows:
-
-1. Open the student’s submission
-2. Check:
-   - **Explanation quality**
-   - **Code logic and correctness**
-   - **Output presence and clarity (e.g., tables, plots)**
-
-You can use **rubrics** to ensure fairness and consistency:
-
-- 10 pts: Explanation
-- 10 pts: Code implementation
-- 10 pts: Output/visuals
-
-Feedback options:
-
-- **Inline comments** (e.g., Moodle Annotate, Canvas SpeedGrader)  
-- **Custom rubric scoring**  
-- **Download and mark externally**, then re-upload scores or annotated files
-
-> ✅ **Takeaway**: Use rubrics and focused comments to create learning moments, not just grades.
+> ✅ **Takeaway**: Be flexible on format, but clear on quality expectations and code readability.
 
 ---
 
-# How do you encourage peer review or discussion on Q&A topics?
+# How do you review and grade coding assignments in your LMS?
 
 ## Explanation
 
-LMS forums are great for reinforcing open-ended problem-solving.
+Most LMS platforms (including Moodle, Canvas, and others) support:
 
-You can:
+- File uploads or online text  
+- Rubric-based or manual grading  
+- Inline comments or downloadable annotations  
+- Private feedback fields  
 
-1. Post a Q&A prompt (without solution) as a **discussion topic**
-2. Ask students to:
-   - Share a proposed solution  
-   - Comment constructively on a peer’s response  
-   - Suggest alternate approaches or critique logic
+You can also:
+- Share **model answers** post-deadline using full CDI walkthroughs  
+- Encourage **resubmissions** based on feedback  
+- Use **discussion boards or peer review** for collaborative learning
 
-Follow up by summarizing patterns or highlighting standout thinking.
-
-> ✅ **Takeaway**: Peer feedback turns Q&A learning into collaborative exploration.
+> ✅ **Takeaway**: Use your LMS’s grading and feedback tools to promote iterative improvement — not just binary scores.
 
 ---
-
-# How do you scaffold feedback so learners reflect and revise?
-
-## Explanation
-
-Beyond grading, help learners **reflect on their process**. Add simple prompts such as:
-
-- “What part of this Q&A was most challenging for you?”
-- “How did you debug your code?”
-- “Compare your submission with the model solution — what’s one thing you learned?”
-
-You can include these as:
-- Short response fields in LMS submissions  
-- End-of-assignment reflection prompts  
-- Follow-up discussion board threads
-
-> ✅ **Takeaway**: Reflection deepens learning and builds self-assessment skills.

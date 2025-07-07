@@ -1,54 +1,68 @@
-# (PART) RESOURCCES LINKS {-}
+# (PART) RESOURCES LINKS {-}
 
 # Additional Resources & Useful Links {-}
 
-This section gathers helpful tools, references, and links that support LMS integration of CDI Q&A materials. Use these to enhance your teaching setup, troubleshoot workflows, or connect with educator communities around open learning.
+This section offers a curated list of platforms, tools, and communities that support LMS-based teaching with **Complex Data Insights (CDI)** guides. These resources help you:
+
+- Host and share content  
+- Collaborate across platforms  
+- Launch code environments  
+- Join educator networks
 
 ---
 
-## 🌐 LMS Platform Guides {-}
+## 🌐 LMS Documentation & Support {-}
 
-| Platform               | Educator Docs / Support                                  |
-|------------------------|----------------------------------------------------------|
-| **Moodle**             | [https://docs.moodle.org/](https://docs.moodle.org/)  
-| **Canvas**             | [https://community.canvaslms.com/](https://community.canvaslms.com/)  
-| **Google Classroom**   | [https://edu.google.com/products/classroom/](https://edu.google.com/products/classroom/)  
-| **Microsoft Teams EDU**| [https://learn.microsoft.com/en-us/microsoftteams/education](https://learn.microsoft.com/en-us/microsoftteams/education)
+Quick access to official support for common LMS platforms:
 
----
-
-## 📁 Tools for Sharing & Collaboration {-}
-
-- **GitHub Pages Hosting (CDI Guides)**  
-  [https://complexdatainsights.com/explore-products](https://complexdatainsights.com/explore-products)
-
-- **Google Colab (Run Python Notebooks)**  
-  [https://colab.research.google.com](https://colab.research.google.com)
-
-- **NBViewer (View GitHub-hosted notebooks)**  
-  [https://nbviewer.org](https://nbviewer.org)
-
-- **MyBinder (Launch `.ipynb` notebooks in browser)**  
-  [https://mybinder.org](https://mybinder.org)
-
-- **R Markdown + Pandoc (Convert Markdown to HTML/PDF)**  
-  Tools like `rmarkdown::render()` and `pandoc` can generate web-friendly or printable formats — though CDI encourages online-first delivery.
-
-> 📎 Reminder: CDI guides are best delivered via **live web links**.  
-> If students need a static copy, they can use **Print → Save as PDF** from their browser.
+| Platform               | Educator Guide / Help Center                             |
+|------------------------|-----------------------------------------------------------|
+| **Moodle**             | [Moodle Docs](https://docs.moodle.org/)  
+| **Canvas**             | [Canvas Community](https://community.canvaslms.com/)  
+| **Google Classroom**   | [Google Classroom for Educators](https://edu.google.com/products/classroom/)  
+| **Microsoft Teams EDU**| [Microsoft Education Support](https://learn.microsoft.com/en-us/microsoftteams/education)
 
 ---
 
-## 📚 Suggested Communities for Educators {-}
+## ⚙️ Tools for Sharing, Viewing & Running Code {-}
 
-- **Open Education Global**  
-  [https://www.oeglobal.org](https://www.oeglobal.org)
+These tools support seamless integration of CDI Q&A content in LMS platforms:
 
-- **R for Data Science Community (Slack + Forums)**  
-  - [tidymodels.org/community](https://www.tidymodels.org/community/)  
-  - [Posit Community](https://community.rstudio.com/)
+- 🔗 **[CDI GitHub Pages (Main Site)](https://complexdatainsights.com/explore-products)**  
+  Browse and share web-friendly versions of CDI guides (by domain)
 
-- **GitHub Education Program**  
-  [https://education.github.com](https://education.github.com)
+- 📓 **[Google Colab](https://colab.research.google.com)**  
+  Run Python notebooks directly in the browser — no setup required
 
-> ✅ **Takeaway**: These tools and communities can help you adapt, scale, and support your CDI-powered courses across any LMS.
+- 🧾 **[NBViewer](https://nbviewer.org)**  
+  View static `.ipynb` notebooks hosted on GitHub
+
+- 🚀 **[MyBinder](https://mybinder.org)**  
+  Launch notebooks in a live execution environment
+
+- 📄 **[R Markdown + Pandoc](https://rmarkdown.rstudio.com/)**  
+  Tools for rendering `.Rmd` files to HTML or PDF if needed  
+  *(Use `rmarkdown::render()` in R or `pandoc` from the command line)*
+
+> 🧭 **Note:** CDI recommends **web-first delivery** of all guides.  
+> To save for offline use, instruct learners to **Print → Save as PDF** from their browser.
+
+---
+
+## 🤝 Educator Communities & Networks {-}
+
+Connect with others building open, applied, or data-driven courses:
+
+- 🌍 **[Open Education Global](https://www.oeglobal.org/)**  
+  International community promoting open education practices
+
+- 📘 **[R for Data Science Educators](https://www.rfordatasci.com/)**  
+  Community supporting R-based learning and reproducibility
+
+- 💡 **[Teaching with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)**  
+  A great guidebook for using Jupyter notebooks in education
+
+- 🧠 **[The Carpentries](https://carpentries.org/)**  
+  Training network for data, coding, and reproducible research skills
+
+> ✅ **Takeaway:** These tools and communities help make CDI teaching more impactful, interactive, and sustainable.

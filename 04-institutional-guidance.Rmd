@@ -2,99 +2,75 @@
 
 # Institutional-Level Integration Tips {-}
 
-This section focuses on how educational institutions, NGOs, or training teams can scale the use of **CDI Q&A guides** across multiple instructors or student cohorts — while ensuring consistent delivery, licensing clarity, and curricular alignment.
+This section focuses on how educational institutions, training programs, or NGO-led initiatives can **scale the use of CDI Q&A guides** across courses, instructors, and learner cohorts — while ensuring consistency, alignment, and license compliance.
 
 ---
 
-# How can institutions structure full courses around CDI Q&A guides?
+# How can institutions structure full courses using CDI Q&A guides?
 
 ## Explanation
 
-Each CDI guide is already structured as a **modular Q&A series** grounded in real-world skills. To turn a guide into a formal course:
+Each CDI domain is organized as a **modular Q&A sequence**, already scaffolded into four learning layers:
 
-1. Choose a domain (e.g., General Data Science, Microbiome, Career Skills)  
-2. Use the four core CDI learning layers:  
-   - **EDA → VIZ → STATS → ML**  
+- **EDA** – Exploratory Data Analysis  
+- **VIZ** – Visualization  
+- **STATS** – Statistical Analysis  
+- **ML** – Machine Learning
+
+To build a full course from CDI content:
+
+1. Select a domain (e.g., General Data Science, Microbiome, Career Growth)  
+2. Use the four CDI layers as **core modules**  
 3. Assign each Q&A as:  
-   - Reading content (via GitHub Pages link)  
-   - Coding lab or problem-solving session  
-   - Homework or guided discussion  
-4. Supplement with institution-specific lectures, videos, or grading systems
+   - Reading or demo (via GitHub Pages)  
+   - Coding activity or lab  
+   - Homework or peer discussion  
+4. Supplement with your own lectures, videos, or grading system
 
-CDI modules can serve as core teaching content or as enrichment for existing syllabi.
+This makes it easy to adapt CDI to both **credit-bearing academic programs** and **non-formal upskilling paths**.
 
-> ✅ **Takeaway**: CDI guides can serve as a foundation for hands-on data courses or flexible blended-learning models.
-
----
-
-# How can teams coordinate content use across instructors?
-
-## Explanation
-
-Multi-instructor programs benefit from shared resources and planning. You can:
-
-- Create a **shared LMS course shell** or **collaborative Drive folder**  
-- Distribute Q&A responsibilities across instructors or TAs  
-- Use a common naming convention (e.g., `Q1.2 – Summary Stats`, `Q2.4 – PCA`)  
-- Link to version-controlled guides via GitHub Pages or source repos  
-- Hold short sync meetings to align scope, pace, and assessments
-
-> ✅ **Takeaway**: Shared, versioned Q&A content supports scalable team teaching with consistency.
+> ✅ **Takeaway**: CDI guides can serve as a complete, modular backbone for hands-on, data-centric courses in diverse institutional settings.
 
 ---
 
-# What licensing rules apply to institutional LMS use?
+# How can teaching teams collaborate around CDI materials?
 
 ## Explanation
 
-All **public EDA layers** from CDI are released under the **MIT License**, which allows free use and adaptation — with proper attribution.
+Programs with multiple instructors or teaching assistants can coordinate effectively by using shared tools and clear communication.
 
-However, a **custom license is required** for:
+Ways to collaborate include:
 
-- Redistribution of premium content (VIZ, STATS, ML layers)  
-- LMS-wide deployments or site-wide course shells  
-- Branding or adapting CDI content for third-party resale or certification programs  
+- Creating a shared **LMS shell**, **Drive folder**, or **GitHub repo**  
+- Dividing topics or Q&A coverage among instructors  
+- Using standardized naming (e.g., `Q2.1 – Missing Data`, `Q3.3 – MA Plot`)  
+- Linking to version-controlled CDI content via GitHub Pages  
+- Running brief team syncs to align on schedule, assessments, and edits
 
-You can request an institutional or commercial license here:  
-[https://complexdatainsights.com/licenses/licensing.html](https://complexdatainsights.com/licenses/licensing.html)
-
-> ✅ **Takeaway**: Free layers are open; extended or branded use requires a license.
+> ✅ **Takeaway**: The modular, versioned format of CDI guides supports collaborative teaching and scalable delivery across departments or terms.
 
 ---
 
-# How can institutions track learning outcomes using CDI guides?
+# What licensing rules apply to institutional use of CDI?
 
 ## Explanation
 
-Because each Q&A is modular and clearly scoped, it’s easy to map them to:
+All CDI learning materials — including EDA, VIZ, STATS, and ML layers — are currently published under a **permissive open license** to encourage wide adoption and adaptation.
 
-- **Learning outcomes** (e.g., “Analyze trends using summary statistics”)  
-- **Bloom’s taxonomy** levels (e.g., Apply, Analyze, Evaluate)  
-- **Program competencies or accreditation metrics**
+Specifically:
 
-LMS platforms support:
+- ✅ **Content and educational materials** are shared under a [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license  
+- ✅ **Code and notebooks** are shared under the [MIT License](https://opensource.org/license/mit/)  
 
-- Rubric-based grading  
-- Assignment completion tracking  
-- Student self-reflection prompts  
-- Code submission analysis
+This means you are free to:
 
-> ✅ **Takeaway**: CDI Q&As are compatible with outcome-based teaching and institutional reporting.
+- Use CDI materials in institutional courses  
+- Translate, adapt, and modify the content  
+- Embed in your LMS or learning platform  
+- Share with students, teams, and collaborators
 
----
+### Just include attribution:
+- Mention **Complex Data Insights (CDI)** as the source  
+- Link back to the original guide (e.g., GitHub Pages or repo URL)
 
-# Can CDI guides support flipped or blended classrooms?
-
-## Explanation
-
-Yes — CDI Q&A content is ideal for **flipped** and **hybrid** classrooms:
-
-| In-Class                    | Out-of-Class                        |
-|:----------------------------|:-------------------------------------|
-| Live coding demos          | Q&A reading + preview               |
-| Peer discussion & feedback | Independent code walkthroughs       |
-| Group problem solving      | Self-paced code replication         |
-
-Use the online Q&A guides as pre-class study materials. Then focus class time on extension, collaboration, and synthesis.
-
-> ✅ **Takeaway**: CDI’s format supports active learning, whether in-person, remote, or hybrid.
+> ✅ **Takeaway**: CDI is designed to empower educators. You are welcome — and encouraged — to remix and teach with it freely, as long as attribution is provided.

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# List of beginner repos
+# List of repos
 repos=(
   "cdi-lms-educators"
 )
