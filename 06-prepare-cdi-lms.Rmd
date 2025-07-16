@@ -8,6 +8,7 @@ Here’s a step-by-step approach you can follow:
 
 ### 1. Clarify Your Course Goals  
 What will learners *actually be able to do* after completing your course? Focus on outcomes that are:
+
 - **Specific** (e.g., “create a volcano plot in R”)
 - **Measurable** (e.g., “interpret PCA results from RNA-Seq data”)
 - **Relevant** (e.g., “apply logistic regression to a bioinformatics dataset”)
@@ -16,6 +17,7 @@ These goals will shape your content, assessments, and learning flow.
 
 ### 2. Know Your Audience  
 Identify who you're designing for:
+
 - Beginner learners? Subject-matter peers? High school educators?
 - Are they tech-savvy or just getting started?
 - Will they access content on phones or computers?
@@ -24,6 +26,7 @@ Tailor your delivery style and content type to match their expectations and lear
 
 ### 3. Select the Right Delivery Format  
 Decide on your teaching structure:
+
 - Will the course be **self-paced**, **scheduled**, or **blended**?
 - Will you use a **layered design** (EDA → VIZ → STATS → ML)?
 - Will each module follow a **weekly plan** or **domain-focused unit**?
@@ -32,6 +35,7 @@ The CDI modular Q&A format is perfect for flexible design — each entry can bec
 
 ### 4. Build or Adapt Content for Impact  
 Use a combination of:
+
 - Existing CDI Q&A entries (Markdown-based and reproducible)  
 - Videos, diagrams, and datasets to illustrate concepts  
 - Moodle-compatible resources (PDFs, quizzes, links)
@@ -48,6 +52,7 @@ Tie each assessment directly to a learning outcome and let learners know what su
 
 ### 6. Add Meaningful Interactivity  
 Don’t make the course a one-way experience. Use MoodleCloud tools to:
+
 - Host **peer discussion forums** (e.g., “What challenges did you face in building your ggplot?”)  
 - Set up **collaborative wikis** or glossaries (e.g., define terms like TPM, OTU)  
 - Use **H5P** or Moodle quizzes for interactive check-ins
@@ -56,6 +61,7 @@ Interaction fosters deeper learning and helps you build a learning community.
 
 ### 7. Test Before Launch  
 Run a small pilot:
+
 - Invite a few learners to try the course  
 - Gather feedback (usability, clarity, engagement)  
 - Refine your structure and resources accordingly

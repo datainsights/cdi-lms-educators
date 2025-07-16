@@ -27,7 +27,9 @@ To turn this into an LMS-based assignment:
    - 📸 Output or screenshot
 
 ### LMS Setup Tip:
+
 In most platforms (e.g., Moodle, Canvas, Google Classroom):
+
 - Use **“Add Assignment”** or equivalent  
 - Paste the question as your prompt  
 - Choose submission types (e.g., file upload, text entry)  
@@ -52,6 +54,7 @@ Submission formats should support clarity, reproducibility, and platform flexibi
 | **PDF/Word file**       | *(Optional)* for full reports                |
 
 Encourage students to:
+
 - Add comments and brief notes  
 - Use consistent naming and formatting  
 - Make sure code runs before submission
@@ -72,6 +75,7 @@ Most LMS platforms (including Moodle, Canvas, and others) support:
 - Private feedback fields  
 
 You can also:
+
 - Share **model answers** post-deadline using full CDI walkthroughs  
 - Encourage **resubmissions** based on feedback  
 - Use **discussion boards or peer review** for collaborative learning
