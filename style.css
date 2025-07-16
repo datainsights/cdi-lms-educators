@@ -228,3 +228,31 @@ p.caption {
 .infoicon h2{
   color: white;
 }
+
+/* Explore Product */
+  table.cdi-library {
+    width: 100%;
+    font-size: 0.95rem;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  .cdi-library th, .cdi-library td {
+    padding: 0.6rem;
+  }
+  .cdi-library thead tr {
+    border-bottom: 2px solid #ccc;
+  }
+
+  /* Color-coded Access Styles */
+  .access-view a {
+    color: #02fa0e; /* green */
+    font-weight: bold;
+  }
+  .access-preview a {
+    color: #c62828; /* red */
+    font-weight: bold;
+  }
+  .access-coming {
+    color: #888888; /* grey */
+    font-style: italic;
+  }
